@@ -1,0 +1,13 @@
+{
+  "name": "antoniolobato-api",
+  "version": "1.0.0",
+  "description": "Pequeño servidor Node.js con un endpoint GET",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=24"
+  },
+  "license": "MIT"
+}
